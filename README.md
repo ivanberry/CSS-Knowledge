@@ -17,6 +17,8 @@
 
 [CSS布局(二): 浮动](https://github.com/ivanberry/readyToJob/issues/13)
 
+[Position?](https://github.com/ivanberry/readyToJob/issues/8)
+
 [绝对定位方案](https://github.com/ivanberry/readyToJob/issues/14)
 
 [Box sizing in css](https://github.com/ivanberry/readyToJob/issues/15)
